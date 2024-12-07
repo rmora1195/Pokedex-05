@@ -1,0 +1,13 @@
+.search-input {
+    padding: .5em;
+    border: 1px solid #ccc;
+
+}
+
+.search-btn {
+    padding: .5em 1em;
+    border: 1px solid #ccc;
+    background: #3a18d3;
+    color: #fff;
+    cursor: pointer;
+}

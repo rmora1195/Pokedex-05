@@ -1,0 +1,30 @@
+.home {
+    display: grid;
+    place-content: center;
+    min-height: 100dvh;
+    text-align: center;
+}
+
+.home-title {
+    margin-bottom: .5em;
+}
+
+.home-text {
+    margin-bottom: 1em;
+    margin-top: 0;
+    font-size: 1.25em;
+}
+
+.home-input {
+    padding: .5em;
+    border: 1px solid #ccc;
+
+}
+
+.home-btn {
+    padding: .5em 1em;
+    border: 1px solid #ccc;
+    background: #3a18d3;
+    color: #fff;
+    cursor: pointer;
+}
